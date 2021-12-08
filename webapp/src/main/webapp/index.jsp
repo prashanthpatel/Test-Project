@@ -1,2 +1,2 @@
-<h1> CI/CD Process is Implemented !!! </h1>
+<h1> Build triggered from poll scm!!! </h1>
 
