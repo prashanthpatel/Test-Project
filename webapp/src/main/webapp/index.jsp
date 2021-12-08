@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Simple CI/CD Process is Implemented !!! </h1>
 
